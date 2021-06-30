@@ -45,6 +45,8 @@ ENV/
 env.bak/
 venv.bak/
 
+python/vnv
+
 
 # C++ files
 # Prerequisites
